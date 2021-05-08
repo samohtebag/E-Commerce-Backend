@@ -59,7 +59,7 @@ npm start
 
 ## Links
  
-  * Application Walk-Through: ()
+  * Application Walk-Through: (https://www.loom.com/share/41988f8c1fcb49ecb24cae95ef1fbd9c)
   * Github Repository URL: (https://github.com/samohtebag/E-Commerce-Backend)
   
 

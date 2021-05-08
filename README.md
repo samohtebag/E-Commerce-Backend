@@ -4,6 +4,9 @@
 
 ## Description
 
+This is an e-commerce backend application, utilizing a backend built API and using Sequelize to communicate with a SQL database. Insomnia (and Postman occassionally) was used to test the API by checking GET, PUT, POST commands.
+
+User Story:
 
     ```
 AS A manager at an internet retail company
@@ -26,7 +29,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Technology
 
-The application was built using Node.js, NPM modules, Express.js, and MySQL
+The application was built using Node.js, NPM modules, Express.js, MVC, and MySQL
 
 
 <a name="#installation"></a>
@@ -35,21 +38,29 @@ The application was built using Node.js, NPM modules, Express.js, and MySQL
 
 Make sure you have Node.js installed before running application: https://nodejs.org/en/download/package-manager/
 
+Install the dependencies by running:
+
+```bash
+npm install
+```
+
 
 <a name="#usage"></a>
 
 ## Usage
 
-* Run "npm install" in your terminal (external or within VS Code) to install any dependencies. 
-* After, run "node app.js" to execute the application, and then interact with the prompts that follow.
+* You can start your server by running:
+```bash
+npm start
+```
 
 
 <a name="#links"></a>
 
 ## Links
  
-  * Application Walk-Through: (https://www.loom.com/share/c8d88ed0ff3b49d2bdd49918a2814e45)
-  * Github Repository URL: (https://github.com/samohtebag/Employee-Tracker-App)
+  * Application Walk-Through: ()
+  * Github Repository URL: (https://github.com/samohtebag/E-Commerce-Backend)
   
 
 <a name="#license"></a>
@@ -69,8 +80,6 @@ Thank you to the following individuals for their insights and perspectives on th
 Patrick Walker: https://github.com/pat31477
 
 You may fork or request the application as well, or feel free to contact me via either of the mediums listed below.
-
-
 
 
 <a name="#questions"></a>
